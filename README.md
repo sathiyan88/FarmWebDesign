@@ -1,2 +1,2 @@
 # FarmWebDesign
-Developing a  Website for Sample Farm 
+Developing a  Website for a Farm
